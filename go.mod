@@ -13,7 +13,7 @@ require (
 	github.com/couchbase/goutils v0.1.0 // indirect
 	github.com/elastic/go-elasticsearch/v6 v6.8.10
 	github.com/elazarl/go-bindata-assetfs v1.0.1
-	github.com/go-kit/kit v0.10.0
+	github.com/go-kit/kit v0.11.0
 	github.com/go-redis/redis/v7 v7.4.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gogo/protobuf v1.3.2
@@ -28,14 +28,13 @@ require (
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pelletier/go-toml v1.9.1
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18
 	github.com/ssdb/gossdb v0.0.0-20180723034631-88f6b59b84ec
 	github.com/stretchr/testify v1.7.0
 	github.com/wendal/errors v0.0.0-20181209125328-7f31f4b264ec // indirect
-	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
+	go.etcd.io/etcd/client/v3 v3.5.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	google.golang.org/grpc v1.37.1
+	google.golang.org/grpc v1.38.0
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/gofumpt v0.1.1 // indirect
 )
