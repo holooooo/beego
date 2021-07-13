@@ -18,7 +18,7 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/gomodule/redigo v2.0.0+incompatible
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/ledisdb/ledisdb v0.0.0-20200510135210-d35789ec47e6
@@ -35,7 +35,7 @@ require (
 	github.com/wendal/errors v0.0.0-20181209125328-7f31f4b264ec // indirect
 	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/mod v0.4.0 // indirect
 	google.golang.org/grpc v1.37.1
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/gofumpt v0.1.1 // indirect
 )
