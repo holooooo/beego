@@ -14,7 +14,7 @@ require (
 	github.com/elastic/go-elasticsearch/v6 v6.8.10
 	github.com/elazarl/go-bindata-assetfs v1.0.1
 	github.com/go-kit/kit v0.10.0
-	github.com/go-redis/redis/v7 v7.4.0
+	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/gomodule/redigo v2.0.0+incompatible
@@ -35,7 +35,7 @@ require (
 	github.com/wendal/errors v0.0.0-20181209125328-7f31f4b264ec // indirect
 	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/mod v0.4.0 // indirect
 	google.golang.org/grpc v1.37.1
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/gofumpt v0.1.1 // indirect
 )
