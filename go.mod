@@ -35,7 +35,7 @@ require (
 	github.com/wendal/errors v0.0.0-20181209125328-7f31f4b264ec // indirect
 	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	google.golang.org/grpc v1.37.1
+	golang.org/x/mod v0.4.0 // indirect
+	google.golang.org/grpc v1.45.0
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/gofumpt v0.1.1 // indirect
 )
