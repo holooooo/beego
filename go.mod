@@ -22,7 +22,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/ledisdb/ledisdb v0.0.0-20200510135210-d35789ec47e6
-	github.com/lib/pq v1.10.2
+	github.com/lib/pq v1.10.5
 	github.com/mattn/go-sqlite3 v1.14.7
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/opentracing/opentracing-go v1.2.0
@@ -35,7 +35,7 @@ require (
 	github.com/wendal/errors v0.0.0-20181209125328-7f31f4b264ec // indirect
 	go.etcd.io/etcd/client/v3 v3.5.0-alpha.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/mod v0.4.0 // indirect
 	google.golang.org/grpc v1.37.1
 	gopkg.in/yaml.v2 v2.4.0
-	mvdan.cc/gofumpt v0.1.1 // indirect
 )
